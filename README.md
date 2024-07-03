@@ -1,2 +1,2 @@
 # octanet_july2024
-the project for summer training and internship with octanet.
+this is a project assigned by octanet for summer training and internship.
